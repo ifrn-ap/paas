@@ -1,0 +1,15 @@
+#navbar{
+	background-color: #FF0000;
+}
+
+#navbar a{
+	color: #FFF;
+}
+
+#navbar li li a{
+	color: #333;
+}
+
+#navbar li .active a{
+	background-color:red;
+}
